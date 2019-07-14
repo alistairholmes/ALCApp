@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ALCApp</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="welcome_to_alc4">Welcome to ALC 4.0!</string>
+    <string name="my_profile">My profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="andela_learning_community_logo">Andela Learning Community logo</string>
+    <string name="profile_name">Alistair Holmes</string>
+    <string name="profile_track">Track:</string>
+    <string name="profile_country">Country:</string>
+    <string name="profile_email">Email:</string>
+    <string name="profile_track_value">Android</string>
+    <string name="profile_country_value">Zimbabwe</string>
+    <string name="profile_email_value">alistairholmes95@gmail.com</string>
+    <string name="profile_phone">Phone number:</string>
+    <string name="profile_phone_value">+263 733 803 735</string>
+    <string name="profile_slack">Slack username:</string>
+    <string name="profile_slack_value">\@Alistair</string>
+    <string name="profile_picture">Profile picture</string>
+</resources>
